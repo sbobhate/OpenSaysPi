@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/EC535Project/Servo/servo.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/EC535Project/Servo/servo.ko /home/pi/Desktop/EC535Project/Servo/servo.o /home/pi/Desktop/EC535Project/Servo/servo.mod.o ;  true
